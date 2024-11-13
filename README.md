@@ -13,4 +13,4 @@ Run these commands:
 
 `node app.js`
 
-`zzz`
+`zzz` `zzz`
